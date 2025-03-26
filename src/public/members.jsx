@@ -82,7 +82,7 @@ const MembersDB = [
 		name: "Kevin",
 		lastName: "Li",
 		birthdate: "3-Dec-09",
-		description: "Hello. My name is Kevin Li. I am a swimmer and tennis player with future aspirations of becoming a neurosurgeon. I plan to major in biochemistry or biology.",
+		description: "Hello. My name is Kevin wong tong ching chong bing bong ling long ping pong king pong ring rong eing eong fing fong ding dong wing wong sing song ving vong xing song cing cong Li and I am a freshman at Brookfield Central High School, hoping to pursue a medical path, specifically as a neurosurgeon. I currently compete competitively in two sports, those being competitive swimming and tennis. I have been competitively swimming for about 8 or 9 years and have competed and placed at the sectional level, as well as being qualified for nationals in 3 events. Outside of sports, I actively participate in clubs such as HOSA and key club, where I have qualified for the international leadership conference back when I was in middle school. Next year, I plan to join FTC and DECA. Outside of school, I enjoy playing Piano. ",
 		gender: "Male",
 		graduationYear: 2028,
 		howDidYouFindUs: "Someone in your non-profit recommended me, Through School",
